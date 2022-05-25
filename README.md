@@ -9,8 +9,10 @@
 * C++
 * Java
 * C#
+* WPF and XAML
 * Python
 * Blueprint scripting language of Unreal Engine 4 and 5
+* C++ through unreal engine
 
 
 
