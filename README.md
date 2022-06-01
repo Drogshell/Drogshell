@@ -7,10 +7,10 @@
 
 ### Currently Learnt Languages
 * C++
-* Java
 * C#
-* WPF and XAML
+* Java
 * Python
+* WPF and XAML
 * Blueprint scripting language of Unreal Engine 4 and 5
 * C++ through unreal engine
 
@@ -19,4 +19,4 @@
 ```
 I have had a number of projects on here that have been deleted. 
 I will replace them with better projects as time goes on.
-I will onlt archive projects that I deem somewhat competent
+I will only archive projects that I deem somewhat competent
