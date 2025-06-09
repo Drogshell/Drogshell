@@ -2,21 +2,26 @@
 ## My programming portfolio. 
 
 ### I will try to learn as much as possible and update this repository with all my efforts. 
-### The more I learn, the better I will understand what kind of developer I want to be. 
 
 
-### Currently Learnt Languages
-* C++
+# I am well-versed in object-oriented programming.
+
+### Proficient languages and frameworks
+* C++ 
 * C#
 * Java
 * Python
-* WPF and XAML
+* Android development with Kotlin [link to one of my other repositories]
+* HTML
+* CSS
+* JavaScript [link to one of my other repositories that show all 3]
+* Node.js
+* MongoDB
 * Blueprint scripting language of Unreal Engine 4 and 5
-* C++ through unreal engine
+* Unity and C# through unity
 
-
-
-```
-I have had a number of projects on here that have been deleted. 
-I will replace them with better projects as time goes on.
-I will only archive projects that I deem somewhat competent
+### Languages I've learned but need more time with
+* Windows Presentation Foundation
+* React
+* C++ through Unreal Engine
+* Q
