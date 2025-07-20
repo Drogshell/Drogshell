@@ -59,7 +59,7 @@ A complete Node.js app, with a fully fledged back-end API
 
 ### Astro Avenger
 A simple Unity Game where I learn the basics of game design
-> ![Astro-Avenger](https://raw.githubusercontent.com/Drogshell/Astro-Avenger/Assets/Screenshots/Demo1.png)
- 
+> ![Demo1](https://raw.githubusercontent.com/Drogshell/Astro-Avenger/33785a6c343a90727212480213ed282d151f51b9/Assets/Screenshots/Demo1.png)
+
 ---
 _This portfolio is always evolving._
